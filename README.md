@@ -6,3 +6,5 @@
 5. variation and standard deviation, they give the measure of the dispersion of the data in the dataset. Variance is avg of squared difference from the mean and the data in dataset. standard deviation is squareroot of variance. it is used to show the outliers. The data points which lie more than 1 standard deviation from the mean are considered unusual.
 6. Population vs sample data - if we are working with sample data instead of the entire dataset then we use the "sample variance" instead of entire population variance.
 7. stdandvariance.py file used numpy and matplotlib package to estimate the entire standard deviation and variance of the data in a dataset.
+8. probability density function(used incase of continous data) gives the probability of a datapoint falling within some given range of a given value.
+9. probability mass fuctions(used incase of discrete data) does the same job.
