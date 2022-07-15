@@ -8,3 +8,5 @@
 7. stdandvariance.py file used numpy and matplotlib package to estimate the entire standard deviation and variance of the data in a dataset.
 8. probability density function(used incase of continous data) gives the probability of a datapoint falling within some given range of a given value.
 9. probability mass fuctions(used incase of discrete data) does the same job.
+10. distributions.py lists all the python implementation of all the pobability distribution density or mass function in one file.
+11. percentiles and moments 
