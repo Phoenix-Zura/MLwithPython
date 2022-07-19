@@ -9,4 +9,6 @@
 8. probability density function(used incase of continous data) gives the probability of a datapoint falling within some given range of a given value.
 9. probability mass fuctions(used incase of discrete data) does the same job.
 10. distributions.py lists all the python implementation of all the pobability distribution density or mass function in one file.
-11. percentiles - in a dataset, what's the point at which x% of the values are less than that value. 50th percentile is simillar to median.
+11. percentiles - in a dataset, what's the point at which x% of the values are less than that value. 50th percentile is simillar to median. percentiles are used to reflect the quartiles of the data. 
+12. moments are used to measure the shape of a probability distribution function. the first moment is mean, the second moment is variance, the third moment is skewness and the forth moment is kurtosis
+13. 
