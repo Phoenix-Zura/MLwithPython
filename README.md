@@ -11,5 +11,5 @@
 10. distributions.py lists all the python implementation of all the pobability distribution density or mass function in one file.
 11. percentiles - in a dataset, what's the point at which x% of the values are less than that value. 50th percentile is simillar to median. percentiles are used to reflect the quartiles of the data. 
 12. moments are used to measure the shape of a probability distribution function. the first moment is mean, the second moment is variance, the third moment is skewness and the forth moment is kurtosis
-13. matplotlib is used to plot and graph the data and present the data to the other tools. 
+13. matplotlib is used to plot and graph the data and present the data to the other tools. a cheetsheet for this matplotlib is saved as matplotlib.ipynb 
 
